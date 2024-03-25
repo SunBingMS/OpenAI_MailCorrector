@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Windows.Forms;
 
-namespace openai
+namespace EmailCorrector
 {
     internal static class Program
     {

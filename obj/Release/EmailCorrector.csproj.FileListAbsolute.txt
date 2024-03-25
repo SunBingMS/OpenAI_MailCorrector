@@ -1,0 +1,15 @@
+C:\Users\sunbi\source\repos\OpenAI_MailCorrector\bin\Release\MailCorrector.exe.config
+C:\Users\sunbi\source\repos\OpenAI_MailCorrector\bin\Release\MailCorrector.exe
+C:\Users\sunbi\source\repos\OpenAI_MailCorrector\bin\Release\MailCorrector.pdb
+C:\Users\sunbi\source\repos\OpenAI_MailCorrector\bin\Release\Newtonsoft.Json.dll
+C:\Users\sunbi\source\repos\OpenAI_MailCorrector\bin\Release\ReaLTaiizor.dll
+C:\Users\sunbi\source\repos\OpenAI_MailCorrector\bin\Release\Newtonsoft.Json.xml
+C:\Users\sunbi\source\repos\OpenAI_MailCorrector\bin\Release\ReaLTaiizor.xml
+C:\Users\sunbi\source\repos\OpenAI_MailCorrector\obj\Release\EmailCorrector.csproj.AssemblyReference.cache
+C:\Users\sunbi\source\repos\OpenAI_MailCorrector\obj\Release\EmailCorrector.FormMain.resources
+C:\Users\sunbi\source\repos\OpenAI_MailCorrector\obj\Release\EmailCorrector.Properties.Resources.resources
+C:\Users\sunbi\source\repos\OpenAI_MailCorrector\obj\Release\EmailCorrector.csproj.GenerateResource.cache
+C:\Users\sunbi\source\repos\OpenAI_MailCorrector\obj\Release\EmailCorrector.csproj.CoreCompileInputs.cache
+C:\Users\sunbi\source\repos\OpenAI_MailCorrector\obj\Release\EmailCor.4EEC7498.Up2Date
+C:\Users\sunbi\source\repos\OpenAI_MailCorrector\obj\Release\MailCorrector.exe
+C:\Users\sunbi\source\repos\OpenAI_MailCorrector\obj\Release\MailCorrector.pdb

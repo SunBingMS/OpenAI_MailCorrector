@@ -1,4 +1,4 @@
-﻿namespace openai
+﻿namespace EmailCorrector
 {
     partial class FormMain
     {
@@ -30,6 +30,7 @@
         {
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(FormMain));
             this.themeForm1 = new ReaLTaiizor.Forms.ThemeForm();
+            this.txtAfter = new ReaLTaiizor.Controls.RichTextBoxEdit();
             this.txtApiKey = new ReaLTaiizor.Controls.TextBoxEdit();
             this.labelEdit2 = new ReaLTaiizor.Controls.LabelEdit();
             this.btnCorrect = new ReaLTaiizor.Controls.ForeverButton();
@@ -37,7 +38,6 @@
             this.txtBefore = new ReaLTaiizor.Controls.RichTextBoxEdit();
             this.labelEdit1 = new ReaLTaiizor.Controls.LabelEdit();
             this.controlBox1 = new ReaLTaiizor.Controls.ControlBox();
-            this.txtAfter = new ReaLTaiizor.Controls.RichTextBoxEdit();
             this.themeForm1.SuspendLayout();
             this.SuspendLayout();
             // 
@@ -65,6 +65,26 @@
             this.themeForm1.StartPosition = System.Windows.Forms.FormStartPosition.WindowsDefaultLocation;
             this.themeForm1.TabIndex = 7;
             this.themeForm1.Text = "OpenAI Email Corrector";
+            // 
+            // txtAfter
+            // 
+            this.txtAfter.AutoWordSelection = false;
+            this.txtAfter.BackColor = System.Drawing.Color.Transparent;
+            this.txtAfter.BaseColor = System.Drawing.Color.Transparent;
+            this.txtAfter.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(180)))), ((int)(((byte)(180)))), ((int)(((byte)(180)))));
+            this.txtAfter.EdgeColor = System.Drawing.Color.White;
+            this.txtAfter.Font = new System.Drawing.Font("Tahoma", 10F);
+            this.txtAfter.ForeColor = System.Drawing.Color.DimGray;
+            this.txtAfter.Location = new System.Drawing.Point(294, 138);
+            this.txtAfter.Name = "txtAfter";
+            this.txtAfter.ReadOnly = false;
+            this.txtAfter.Size = new System.Drawing.Size(449, 265);
+            this.txtAfter.SmoothingType = System.Drawing.Drawing2D.SmoothingMode.AntiAlias;
+            this.txtAfter.TabIndex = 15;
+            this.txtAfter.TextBackColor = System.Drawing.Color.White;
+            this.txtAfter.TextBorderStyle = System.Windows.Forms.BorderStyle.None;
+            this.txtAfter.TextFont = new System.Drawing.Font("Tahoma", 10F);
+            this.txtAfter.WordWrap = true;
             // 
             // txtApiKey
             // 
@@ -177,26 +197,6 @@
             this.controlBox1.Size = new System.Drawing.Size(90, 25);
             this.controlBox1.TabIndex = 6;
             this.controlBox1.Text = "controlBox1";
-            // 
-            // txtAfter
-            // 
-            this.txtAfter.AutoWordSelection = false;
-            this.txtAfter.BackColor = System.Drawing.Color.Transparent;
-            this.txtAfter.BaseColor = System.Drawing.Color.Transparent;
-            this.txtAfter.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(180)))), ((int)(((byte)(180)))), ((int)(((byte)(180)))));
-            this.txtAfter.EdgeColor = System.Drawing.Color.White;
-            this.txtAfter.Font = new System.Drawing.Font("Tahoma", 10F);
-            this.txtAfter.ForeColor = System.Drawing.Color.DimGray;
-            this.txtAfter.Location = new System.Drawing.Point(294, 138);
-            this.txtAfter.Name = "txtAfter";
-            this.txtAfter.ReadOnly = false;
-            this.txtAfter.Size = new System.Drawing.Size(449, 265);
-            this.txtAfter.SmoothingType = System.Drawing.Drawing2D.SmoothingMode.AntiAlias;
-            this.txtAfter.TabIndex = 15;
-            this.txtAfter.TextBackColor = System.Drawing.Color.White;
-            this.txtAfter.TextBorderStyle = System.Windows.Forms.BorderStyle.None;
-            this.txtAfter.TextFont = new System.Drawing.Font("Tahoma", 10F);
-            this.txtAfter.WordWrap = true;
             // 
             // FormMain
             // 

@@ -4,7 +4,7 @@ using System;
 using System.Net.Http;
 using System.Windows.Forms;
 
-namespace openai
+namespace EmailCorrector
 {
     public partial class FormMain : Form
     {
